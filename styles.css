@@ -136,6 +136,7 @@ button {
     .bottom button {
         background-color: #3882f6;
         color: white;
+        margin-left: 100px;
         padding: 10px;
         border-radius: 5px;
         border: 2px solid white;
