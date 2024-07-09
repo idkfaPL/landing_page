@@ -75,6 +75,12 @@ li a {
     max-width: 200px;
     max-height: 200px;
 }
+
+.illust .text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 button {
     flex-grow: 0;
     max-width: 100px;
@@ -91,9 +97,12 @@ button {
     padding: 40px;
     padding-left: 80px;
     padding-right:80px;
+    min-height:300px;
+
     }
 
     .kontener .quote {
+        margin:80px;
         font-size: 36px;
         font-weight: lighter;
         font-style: italic;
